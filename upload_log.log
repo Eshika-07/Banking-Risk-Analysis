@@ -1,0 +1,4 @@
+2025-09-10 20:00:56,651 - INFO - SUCCESS: banking-relationships.csv \u2192 banking-relationships | Rows: 4 | Time: 0.05 sec
+2025-09-10 20:00:56,932 - INFO - SUCCESS: customers.csv \u2192 customers | Rows: 3000 | Time: 0.28 sec
+2025-09-10 20:00:56,965 - INFO - SUCCESS: gender.csv \u2192 gender | Rows: 2 | Time: 0.03 sec
+2025-09-10 20:00:57,004 - INFO - SUCCESS: investment-advisiors.csv \u2192 investment-advisiors | Rows: 22 | Time: 0.04 sec
