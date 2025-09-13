@@ -1,4 +1,4 @@
-![Banking Risk Analysis](Banking Dashboard)
+![Banking Risk Analysis](https://github.com/Eshika-07/Banking-Risk-Analysis/blob/main/Banking%20Dashboard.png)
 
 # Banking Risk Analysis
 
@@ -23,24 +23,24 @@ Develop a basic understanding of **risk analytics** in banking and financial ser
 ---
 
 ## Business Insights
--- Older customers tend to maintain higher account balances. This may indicate greater financial stability, which can reduce lending risk
--- Customers in certain geographies (e.g., Germany) show higher activity rates, potentially reflecting stronger engagement with banking products
--- Higher balances and longer tenure could be used as low-risk indicators when approving loans
--- Dormant high-balance accounts present an opportunity for cross-selling or reactivation campaigns
--- Targeted engagement in lower-credit-score geographies could improve repayment behaviour
+- Older customers tend to maintain higher account balances. This may indicate greater financial stability, which can reduce lending risk
+- Customers in certain geographies (e.g., Germany) show higher activity rates, potentially reflecting stronger engagement with banking products
+- Higher balances and longer tenure could be used as low-risk indicators when approving loans
+- Dormant high-balance accounts present an opportunity for cross-selling or reactivation campaigns
+- Targeted engagement in lower-credit-score geographies could improve repayment behaviour
 
 
 
 ---
 
 ## Tech Stack
--- Python (pandas, matplotlib, seaborn, sqlite3)
--- SQL Database (MYSQL)
--- Jupyter Notebook for EDA
+- Python (pandas, matplotlib, seaborn, sqlite3)
+- SQL Database (MYSQL)
+- Jupyter Notebook for EDA
 
 ---
 
 ## Future Improvements
--- Implement machine learning models for risk prediction
--- Automate data pipeline from ingestion to reporting
--- Integrate dashboard for real-time risk monitoring
+- Implement machine learning models for risk prediction
+- Automate data pipeline from ingestion to reporting
+- Integrate dashboard for real-time risk monitoring
